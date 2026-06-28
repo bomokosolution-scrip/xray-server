@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| 🎯 **VPS Cible** | `47.236.17.49:443` |
+| 🎯 **VPS Cible** | `194.146.25.198:443` |
 |:----------------:|:---------------------:|
 | 🔌 **Port d'écoute** | `8080` |
 | 🌍 **Région VPS** | 🇬🇧 europe-west2 (Londres) |
